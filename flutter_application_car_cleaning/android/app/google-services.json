@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1053615860124",
+    "project_id": "finalproject1-ed8eb",
+    "storage_bucket": "finalproject1-ed8eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053615860124:android:fe26c2efba0146c59e8059",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_car_cleaning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJNqIzUjBGKIFn2vm1kNLQqwVPgz8mpXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
